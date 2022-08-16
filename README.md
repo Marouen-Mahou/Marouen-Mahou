@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marouen MAHOU</h1>
 <h3 align="center">Software Engineering Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marouen-mahou" alt="marouen-mahou" /></a> </p>
-
 - 🔭 I’m currently working on **MongoDB, Vuejs, Express, Nodejs**
 
-- 🌱 I’m currently learning **DevOps: Jenkins**
-
-- 💬 Ask me about **Vuejs**
+- 🌱 I’m currently learning **DevOps CI/CD: Jenkins/Docker/SonarQube/kubernetes**
 
 - 📫 How to reach me **mahou.marouen@gmail.com**
 
