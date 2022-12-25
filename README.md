@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MongoDB, Vuejs, Express, Nodejs**
 
-- 🌱 I’m currently learning **DevOps CI/CD: Jenkins/Docker/SonarQube/kubernetes**
+- 🌱 I’m currently learning **DevOps CI/CD: Ansible/Promethus/ArgoCD**
 
 - 📫 How to reach me **mahou.marouen@gmail.com**
 
